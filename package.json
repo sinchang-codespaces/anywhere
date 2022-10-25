@@ -34,6 +34,10 @@
     "bin",
     "keys"
   ],
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "engines": {
     "node": ">=12.0.0"
   }
